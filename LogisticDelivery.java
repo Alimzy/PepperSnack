@@ -1,7 +1,7 @@
 public class LogisticDelivery{
     public static void main(String... args){
 
-System.out.println(calcDelivery(25));
+System.out.println(calcDelivery(62));
 }
 
 public static int calcDelivery(int succesfulDelivery){
